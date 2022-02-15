@@ -141,7 +141,9 @@ Thing: Car Wash
  */
 
 /*
+===================
 Part 1b Assignment:
+===================
 1)  Fill in the 4 UDTs below with a random UDT in plain english.
     These 4 UDTs do not need to be related.
         a) For each plain-english UDT, write out 5 traits or 
@@ -255,11 +257,14 @@ Part 1c example:
     properties and 3 actions EACH.
 */
 /*
+===================
 Part 1c assignment:
+===================
+
 1) Fill in the 10th UDT below.
-    Define an object that is made of 5 sub-objects.
-    These parts will not be defined using Primitives, but instead 
-    will be their own UDTs you'll define in Part 1d.
+Define an object that is made of 5 sub-objects.
+    These 5 sub-objects will not be defined using Primitives, but instead will be their own UDTs 
+    you'll define these 5 sub-objects in Part 1d.
 
 2) write the name of the primitive type you'll be using after each 
     property in UDTs 1-4:
@@ -349,7 +354,10 @@ point of being able to describe it with C++ primitives.
 */
 
 /*
+===================
 Part 1d assignment:
+===================
+
 1) Fill in #5 - #9 below with plain-english UDTs for the 5 
 properties you created for UDT #10. 
     example: 
@@ -449,8 +457,10 @@ You've just defined 10 UDTs!
 4 of them are unrelated (UDTs 1-4).
 5 of them form the sub-objects that make up the 10th UDT. 
 
-Move them below this block comment and put them in numerical order 
+MOVE them below this block comment and put them in numerical order 
 (1 - 10).
+    Do not copy. 
+    I do not want to see 2 copies of your Plain-English UDTs.  I only want to see the 1 copy below this block comment, in numerical order (1 - 10).
 
 The next thing that will happen is that I will review the 
 pseudo-code that you have written.

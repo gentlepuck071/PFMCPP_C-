@@ -33,7 +33,7 @@ Part1 will be broken up into 5 separate steps, all on the same branch.
 */
 
 /*
-Part 1a
+Part 1a - Lesson
 1) Look at the picture of the car interior (Part1a pic.jpg).  
     It's in the list of files on the left in Replit.
     Fill in the blanks below which break this car interior down 
@@ -101,7 +101,7 @@ Sub Object 5: Seat
 */
 
 /*
-Part 1b
+Part 1b - Lesson
 Now you have some basic understanding of how to think of an object 
 in terms of its sub-objects.
 
@@ -142,7 +142,7 @@ Thing: Car Wash
 
 /*
 ===================
-Part 1b Assignment:
+Part 1b Assignment: 1 Step
 ===================
 1)  Fill in the 4 UDTs below with a random UDT in plain english.
     These 4 UDTs do not need to be related.
@@ -211,7 +211,7 @@ Thing 4)
  */
 
  /*
-Part 1c
+Part 1c - Lesson
 You have just finished practicing writing out a UDT that is has 
 5 properties and can perform 3 actions.  
 
@@ -258,16 +258,11 @@ Part 1c example:
 */
 /*
 ===================
-Part 1c assignment:
+Part 1c assignment: 2 steps
 ===================
 
-1) Fill in the 10th UDT below.
-Define an object that is made of 5 sub-objects.
-    These 5 sub-objects will not be defined using Primitives, but instead will be their own UDTs 
-    you'll define these 5 sub-objects in Part 1d.
-
-2) write the name of the primitive type you'll be using after each 
-    property in UDTs 1-4:
+1) write the name of the primitive type you'll be using after each 
+    property in UDTs 1-4 from Part 1b:
     pick properties that can be represented with 
     'int float double bool char std::string'.
     example: 
@@ -277,6 +272,11 @@ Define an object that is made of 5 sub-objects.
             Brightness (double)
             area in cm2 (int)
             brand (std::string)
+
+2) Fill in the 10th UDT below.
+Define an object that is made of 5 sub-objects.
+    These 5 sub-objects will not be defined using Primitives, but instead will be their own UDTs 
+    you'll define these 5 sub-objects in Part 1d.
 */
 
 /*
@@ -294,7 +294,7 @@ Thing 10)
  */
 
 /*
-Part 1d
+Part 1d - Lesson
 You now know how to define a UDT that is composed of other UDT.
 Now you will learn how to break down those sub-object UDTs into 
 their 5 properties and 3 actions.
@@ -355,7 +355,7 @@ point of being able to describe it with C++ primitives.
 
 /*
 ===================
-Part 1d assignment:
+Part 1d assignment: 3 Parts.
 ===================
 
 1) Fill in #5 - #9 below with plain-english UDTs for the 5 
@@ -380,6 +380,8 @@ each property for UDTs 5 - 9.
             Brightness (double)
             width in cm (int)
             height in cm (int)
+
+Step 3 is written below UDTs 5 - 9
 */
 
 /*
@@ -453,19 +455,25 @@ Thing 9)
  */
 
 /*
+===================
+Part 1d assignment: Step 3
+===================
 You've just defined 10 UDTs!
 4 of them are unrelated (UDTs 1-4).
 5 of them form the sub-objects that make up the 10th UDT. 
 
-MOVE them below this block comment and put them in numerical order 
-(1 - 10).
-    Do not copy. 
-    I do not want to see 2 copies of your Plain-English UDTs.  I only want to see the 1 copy below this block comment, in numerical order (1 - 10).
+MOVE THEM BELOW this block comment and put them in numerical order 
+(1 - 10) starting on line 473
+    DO NOT COPY. 
+    I do not want to see 2 copies of your Plain-English UDTs.  
+    I only want to see the 10 UDTs written BELOW this block comment, in numerical order (1 - 10).
 
-The next thing that will happen is that I will review the 
-pseudo-code that you have written.
-Send me a DM to review your pull request when the project is ready for review.
+After you have MOVED your 10 UDTs, send me a DM with your pull request link.
+I will review the pseudo-code that you have written.
 */
+
+
+
 
 /*
  MAKE SURE YOU ARE NOT ON THE MASTER BRANCH
